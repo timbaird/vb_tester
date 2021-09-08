@@ -1,0 +1,11 @@
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\bin\Debug\Oracle Connection Tester Framework 4.0.exe
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\bin\Debug\Oracle Connection Tester Framework 4.0.pdb
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\bin\Debug\Oracle Connection Tester Framework 4.0.xml
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\WindowsApplication2.Form1.resources
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\Oracle Connection Tester Framework 4.0.exe
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\Oracle Connection Tester Framework 4.0.xml
+E:\2013_S1\DS\aaa_2012_S1_DS_HIT2422\VB _Oracle framework\Oracle Connection Tester\Oracle Connection Tester Framework 4.0\Oracle Connection Tester Framework 4.0\obj\x86\Debug\Oracle Connection Tester Framework 4.0.pdb
